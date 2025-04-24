@@ -51,6 +51,21 @@
   Built a high-accuracy classifier using Scikit-learn and standard evaluation metrics.
 
 ---
+### 🧪  Projects Demos
+
+- 🔐 **Differential Privacy Synthetic Data Generator**  
+  [🌐 Live Demo](https://v0-dp-gan-for-finance.vercel.app/) | [📦 Source Code](https://github.com/mskdharanisri/credit-risk-dp)  
+  > Create secure synthetic data for financial credit risk modeling using DP techniques.
+    **Technologies**: Python, Scikit-learn, Matplotlib, Streamlit, Vercel  
+    **Core Focus**: Privacy-preserving AI, risk modeling, data anonymization
+
+
+### 🌟 Featured Repositories
+
+- [🧠 Profanity Detection System](https://github.com/mskdharanisri/profanity-detection-ai) — Real-time transcription + content redaction with LLMs
+- [🔐 Credit Risk Synthetic Data Generator](https://github.com/mskdharanisri/credit-risk-dp) — Differential privacy in financial data
+- [📊 Restaurant Rating Predictor](https://github.com/mskdharanisri/restaurant-recommender) — ML + Recommendation system
+
 
 ## 📫 Let's Connect
 
