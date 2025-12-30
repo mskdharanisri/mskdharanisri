@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Dharani Sri</h1>
-<h3 align="center">AI Engineer | Generative AI Enthusiast | Final Year B.Tech (AI & Data Science)</h3>
+<h3 align="center">AI Engineer | Generative AI Enthusiast | Graduate B.Tech (AI & Data Science)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dharanisri19/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
