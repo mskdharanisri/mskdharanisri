@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final year undergraduate in **Artificial Intelligence and Data Science** at Sri Ramakrishna Engineering College (Graduating May 2025).
+- 🎓 Graduate in **Artificial Intelligence and Data Science** at Sri Ramakrishna Engineering College (Graduating May 2025).
 - 🔬 Passionate AI Engineer with hands-on experience in **Generative AI**, **NLP**, and **Responsible AI**.
 - 🧑‍💻 Skilled in building scalable AI/ML applications using **LLMs**, **Whisper**, **Mistral**, and **transformer models**.
 - 🔍 Always exploring intersections of **deep learning**, **data privacy**, and real-world AI applications.
